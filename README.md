@@ -5,6 +5,7 @@ For this project, I took inspiration from Ben Eater's "[**8-bit computer from sc
 
 
 **Specification of the 8-bit Computer:**
+
 Clock: adjustable-speed (from less than 1Hz to a few hundred Hz). Realized up to 350Hz
 
 RAM: Two units of (16 words × 4 bits)
