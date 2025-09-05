@@ -17,4 +17,4 @@ If we add unconditional jump, conditional jump; it would theoretically make it T
 
 Units: RAM, Program Counter, Memory Address Register, Instruction Register, Register A, Register B, Output Register, Clock, Arithmetic Logic Unit (Only implemented Arithmetic Instruction as of now), Control Logic Unit.
 
-Follows Von-Neumann Model
+
