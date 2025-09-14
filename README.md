@@ -13,7 +13,7 @@ RAM: Two units of (16 words × 4 bits)
 ROM: (2*32KB) for Control Unit
 
 Instructions supported (as of now): LOAD, ADD, OUT, HLT (the load on CPU was significant even with these basic instrucitons)
-<br>(Not Turing Complete)
+<br>(Currently, this tiny computer, despite being able to execute simple commands, is not Turing complete.)
 If we add unconditional jump, conditional jump; it would theoretically make it Turing Complete. Practically, it is still limited by memory, clock constraints.
 
 Units: RAM, Program Counter, Memory Address Register, Instruction Register, Register A, Register B, Output Register, Clock, Arithmetic Logic Unit (Only implemented Arithmetic Instruction as of now), Control Logic Unit.
