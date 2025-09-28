@@ -3,7 +3,7 @@
 _Update!! (September 28,2025)_
 <br>
 _The output unit caused a CPU load of around 65% and program execution was extremely slow. So, the output unit was rebuilt from scratch and the run-time load is now just 5%. So, it was practically possible to implement additional opcodes making it Turing complete.
-Opcodes for LDA, ADD, SUB, STA, LDI, JMP, JC, JZ, OUT, and HLT instructions were also added and successfully executed. Detail report is coming soon!_
+Opcodes for LDA, ADD, SUB, STA, LDI, JMP, JC, JZ, OUT, and HLT instructions were added and successfully executed. Detail report is coming soon!_
 <br>
 <br>
 <hr>
