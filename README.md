@@ -10,6 +10,7 @@ This project is intended to be a handy tool to learn and teach low-level compute
 <hr>
 <hr>
 
+September 4, 2025
 
 A brief report (kind of raw note type) about the project can be found in **8 bit computer_report** file.
 
