@@ -3,7 +3,8 @@
 _Update!! (September 28,2025)_
 <br>
 _The output unit caused a CPU load of around 65% resulting in an extremely slow program execution. So, the output unit was rebuilt from scratch, reducing the run-time load to just 5%. This made it practically feasible to implement additional opcodes, making the system theoretically Turing complete (practically it is limited by small RAM, but tradeoffs are inherent in any design). Opcodes for LDA, ADD, SUB, STA, LDI, JMP, JC, JZ, OUT, and HLT instructions were added and successfully executed. A detailed report is coming soon!
-This project is intended to be a handy tool to learn and teach low-level computer architecture from instruciton in binary to outputs in decimal without the need of buying chips._
+<br>
+This project is intended to be a handy tool to learn and teach low-level computer architecture, from loading binary instrucitons in RAM to decimal outputs, without the need of purchasing chips._
 <br>
 <br>
 <hr>
