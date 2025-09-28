@@ -1,3 +1,10 @@
+
+
+Update!! (September 28,2025)
+The output unit caused a CPU load of around 65% and program execution was extremely slow. So, the output unit was rebuilt from scratch and the run-time load is just 5% now. So, addition of addition opcodes were possible making it Turing complete.
+Opcodes for LDA, ADD, SUB, STA, LDI, JMP, JC, JZ, OUT, and HLT instructions were also added and successfully executed.
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------
 A brief report (kind of raw note type) about the project can be found in "**8 bit computer_report**" file.
 
 For this project, I took inspiration from Ben Eater's "[**8-bit computer from scratch**](https://eater.net/8bit)". While Ben demonstrates how to build the computer on a breadboard using ICs and real hardware, I implemented it in Proteus using mostly the same chips, except for few, such as ROM chips. For ROM chips, I used an alternative IC. Since the Arduino-based method for writing data in ROM was not viable in my case, I manually entererd data into each memory location and then uploaded the .hex file to ROMs.
@@ -19,10 +26,7 @@ If we add unconditional jump, conditional jump; it would theoretically make it T
 Units: RAM, Program Counter, Memory Address Register, Instruction Register, Register A, Register B, Output Register, Clock, Arithmetic Logic Unit (Only implemented Arithmetic Instruction as of now), Control Logic Unit.
 
 
-Update!! (September 28,2025)
-The output unit caused a CPU load of around 65% and program execution was extremely slow. So, the output unit was rebuilt from scratch and the run-time load is just 5% now. So, addition of addition opcodes were possible making it Turing complete.
-Opcodes for LDA, ADD, SUB, STA, LDI, JMP, JC, JZ, OUT, and HLT instructions were also added and successfully executed.
-  
+ 
 
 
 <img width="1920" height="1080" alt="image65" src="https://github.com/user-attachments/assets/1a00fc0d-a5e0-4671-a4f7-9a539dc552d7" />
