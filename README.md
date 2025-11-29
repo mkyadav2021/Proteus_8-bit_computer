@@ -22,9 +22,9 @@ For this project, I took inspiration from Ben Eater's "[**8-bit computer from sc
 
 Clock: adjustable-speed (from less than 1Hz to a few hundred Hz). Realized up to 350Hz
 
-RAM: Two units of (16 words × 4 bits)
+RAM: 16 Bytes
 
-ROM: (2*32KB) for Control Unit
+ROM: Two 4KB units
 
 Instructions supported (as of now): LOAD, ADD, OUT, HLT (the load on CPU was significant even with these basic instrucitons)
 <br>(Currently, this tiny computer, despite being able to execute simple commands, is not Turing complete.)
